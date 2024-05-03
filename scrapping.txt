@@ -1,0 +1,370 @@
+CryptoGene — 04/23/2024 10:15 PM
+hello
+I am a scraping expert.
+I have already enough experience in bot avoiding tech to scrap website.
+Bonsai — 04/24/2024 8:03 AM
+Hi.. there... how much would you charge and how long will it take?
+CryptoGene — 04/24/2024 1:24 PM
+hello
+are you there?
+Website scraping is a laborious task.
+and nowdays,I'm working on a scraping project that costs $1400.
+This project is a project that obtains data by obtaining 50,000 products from two store sites.
+CryptoGene — 04/24/2024 1:32 PM
+and to avoid automatic bot protecting system,I have much tried and finally finished it. 😸
+and to get all data takes 2.5 days in my project (because to avoid Bot protecting system and I use 2 computers to high speed.)
+If your website doesn't have Bot protecting system, to get all 700,000 data will take 3~4 days using one computer.
+And I can finish Scraping in 5~8 days.
+So If you interested in me let's more discuss about your Project.
+I suggest limit budget is $2000 and let's discuss about it. 
+Bonsai — 04/24/2024 9:04 PM
+the site you will be scrapping will have bot protection .
+CryptoGene — 04/25/2024 12:51 AM
+I have ample experience in bot avoidance technology.
+and it is not matter to me.
+CryptoGene — 04/25/2024 12:51 AM
+Are you there?
+Bonsai — 04/25/2024 3:04 AM
+Hi.. i am here
+CryptoGene — 04/25/2024 3:05 AM
+hello
+nice to meet you.
+Bonsai — 04/25/2024 3:05 AM
+Nice to meet you..
+Task:
+https://myip.ms/browse/sites/1/ipID/23.227.38.0/ipIDii/23.227.38.255/sort/2/asc/1
+go above website, scrape all 700,000 results from above site
+
+for each website, find CEO/Owner information from Linkedin or other social media and collect first, last name and email address and social media handles for x.com, instagram, and Facebook
+
+Acceptance Criteria
+Create an excel for all 700,000 results with website, first name, last name, email addres (s), twitter handle, Facebook handle, instagram handle .
+
+if multiple owner/ceo please repeat the line for each site. Make Site, email as primary key.
+
+we can keep the code in github and run it, save the data in small db too so next run we can skip the existing or update the changed and add new records.
+23.227.38.0 - 23.227.38.255 World - Million on Myip.ms
+23.227.38.0 - 23.227.38.255 World Websites Database (15,000,000+) on Myip.ms. Million web sites hosting ten websites database information top, sites.
+CryptoGene — 04/25/2024 3:06 AM
+yeah.i read your project requirement.
+and i have enough experience in website scraping under bot protecting condition.
+and few days ago,i just finished scraping task.
+Bonsai — 04/25/2024 3:07 AM
+i have been trying to get this data out for a while.. everyone says they are expert but after few weeks they give up the project.. and i ended up wasting time.
+CryptoGene — 04/25/2024 3:07 AM
+i understand your mind.
+to tell the truth,to avoid Bot protecting in web site
+needs many effort to avoid protecting system.
+Bonsai — 04/25/2024 3:08 AM
+how are you planning to do that?
+CryptoGene — 04/25/2024 3:08 AM
+almost people use modules to scrap
+To avoid Bot system, don't use any module.
+in module(nodejs or python), they makes virtual browser
+but in Bot protecting system, they first detect if attackers are bot or not by request header.
+so I don't use any module.
+rather I made scraper by Chrome Extension format.
+and I make scraper as human does.
+and I use Multi account attack to scrap website.
+Bonsai — 04/25/2024 3:11 AM
+ok
+CryptoGene — 04/25/2024 3:11 AM
+this is safe method to avoid Bot protecting system.
+Bonsai — 04/25/2024 3:11 AM
+you say you can get this done in 5-8 days?
+u dont use proxy?
+CryptoGene — 04/25/2024 3:11 AM
+yeah.i am sure.
+before ,i use proxy or vpn
+but speed is too low
+so i don't use it
+Bonsai — 04/25/2024 3:12 AM
+ok.. you may have to use proxy or vpn.. it will block ur ip or laptop.. mac address
+CryptoGene — 04/25/2024 3:12 AM
+don't worry about it.
+Bonsai — 04/25/2024 3:12 AM
+give it a try for first 5 pages and see if your method works..
+CryptoGene — 04/25/2024 3:13 AM
+okay.
+i am sure.
+and if you believe my way, how much budget can you pay me?
+Bonsai — 04/25/2024 3:15 AM
+i have been trying to get this done for 5 months.. but i am not getting any results.. so at this point i dont belive anything untill i see the results.
+I can pay you $2000 for this task but i need results in 8 days.. and i can verify.. share the data as you scrap
+how do you take payment?
+are you in USA?
+CryptoGene — 04/25/2024 3:17 AM
+no. i am in japan
+Bonsai — 04/25/2024 3:18 AM
+ok
+whats your perfer payment method?
+CryptoGene — 04/25/2024 3:18 AM
+crypto
+can you?
+Bonsai — 04/25/2024 3:18 AM
+no, crypto
+CryptoGene — 04/25/2024 3:19 AM
+which payment method can you use?
+Bonsai — 04/25/2024 3:20 AM
+payoneer ?
+is it available in Japan?
+CryptoGene — 04/25/2024 3:20 AM
+of course it is available in here
+but i prefer crypto
+because fee is small.
+Bonsai — 04/25/2024 3:21 AM
+crypto has a lot of fees
+sol?
+do you take SOL?
+or ETH?
+CryptoGene — 04/25/2024 3:21 AM
+ETH.
+Bonsai — 04/25/2024 3:22 AM
+lot of GAS fee on ETH, no?
+CryptoGene — 04/25/2024 3:22 AM
+no.
+Bonsai — 04/25/2024 3:23 AM
+I have not paid anyone in Crypto ebfore so i have to figure out..
+lets do this.. if you can figure out if you can do this project untill tomorrow and i can figure out how to pay you in ETH...
+CryptoGene — 04/25/2024 3:24 AM
+okay.
+so for trial.
+first give me simple url to test me.
+and site has bot protecting system.
+Bonsai — 04/25/2024 3:25 AM
+this is the url: https://myip.ms/browse/sites/1/ipID/23.227.38.0/ipIDii/23.227.38.255/sort/2/asc/1
+23.227.38.0 - 23.227.38.255 World - Million on Myip.ms
+23.227.38.0 - 23.227.38.255 World Websites Database (15,000,000+) on Myip.ms. Million web sites hosting ten websites database information top, sites.
+this url has 700,000+ records that needs to be scraped.. and for each record you need to find X.com, facebook, instagram accounts, with CEO ro Marketing manager email address from linked in.
+CryptoGene — 04/25/2024 3:27 AM
+https://stockx.com/
+StockX: Sneakers, Streetwear, Trading Cards, Handbags, Watches
+Buy and sell the hottest sneakers including Adidas Yeezy and Retro Jordans, Supreme streetwear, trading cards, collectibles, designer handbags and luxury watches.
+StockX: Sneakers, Streetwear, Trading Cards, Handbags, Watches
+this is last website that i scraped.
+and this site has bot protecting system.
+Bonsai — 04/25/2024 3:27 AM
+ok
+CryptoGene — 04/25/2024 3:28 AM
+but i successfully finished scraping.
+Bonsai — 04/25/2024 3:28 AM
+ok.. thats good.
+try : https://myip.ms/browse/sites/1/ipID/23.227.38.0/ipIDii/23.227.38.255/sort/2/asc/1 ..
+23.227.38.0 - 23.227.38.255 World - Million on Myip.ms
+23.227.38.0 - 23.227.38.255 World Websites Database (15,000,000+) on Myip.ms. Million web sites hosting ten websites database information top, sites.
+691,729
+records
+CryptoGene — 04/25/2024 3:31 AM
+can you available google meeting?
+in now?
+Bonsai — 04/25/2024 3:31 AM
+yes
+paste the link here
+CryptoGene — 04/25/2024 3:33 AM
+hey
+Bonsai — 04/25/2024 3:34 AM
+hi
+CryptoGene — 04/25/2024 3:34 AM
+i saw your site just now
+but there is no bot protecing system in that site.
+huh?
+Bonsai — 04/25/2024 3:35 AM
+try it.. it will block your ip
+after few attempts
+if not.. then you have to project..
+CryptoGene — 04/25/2024 3:36 AM
+okay.
+i can start work in just now.
+Bonsai — 04/25/2024 3:37 AM
+hope on the google meet.
+user this link website scrapping
+Wednesday, April 24 · 2:30 – 3:30pm
+Time zone: America/Detroit
+Google Meet joining info
+Video call link: https://meet.google.com/hcf-igtt-rkc
+Or dial: ‪(US) +1 323-510-8223‬ PIN: ‪658 466 113‬#
+More phone numbers: https://tel.meet/hcf-igtt-rkc?pin=2716272108131
+Join this video meeting
+Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.
+Image
+CryptoGene — 04/25/2024 3:40 AM
+can you give me upfront ?
+and if you can i can available meeting in now.
+Bonsai — 04/25/2024 3:40 AM
+https://meet.google.com/hcf-igtt-rkc
+join this meeting
+CryptoGene — 04/25/2024 3:41 AM
+okay
+just a minute
+i will join in https://meet.google.com/hcf-igtt-rkc
+CryptoGene — 04/25/2024 4:06 AM
+thanks for your time.
+CryptoGene — 04/25/2024 8:02 AM
+good news.
+I just solved Bot avoid problem.
+and Now ,scrapping data from your site. 😸
+I am a genious!
+CryptoGene — 04/26/2024 8:56 PM
+hello @Bonsai
+I Can scrap 700,000 website info in table.
+CryptoGene — 04/26/2024 9:21 PM
+Automatically turns pages while scraping.
+I developed a scraping bot in an extended form and avoided anti-scraping bots.
+CryptoGene — 04/26/2024 10:55 PM
+hey @Bonsai
+CryptoGene — 04/27/2024 1:19 AM
+are you there?
+Bonsai — 04/27/2024 4:00 AM
+Hi
+I’m here
+CryptoGene — 04/27/2024 9:34 AM
+i am sorry for late answer
+are you there?
+CryptoGene — 04/28/2024 1:08 AM
+hello?
+are you there?
+Bonsai — 04/28/2024 2:43 AM
+Hi .. I’m here
+CryptoGene — 04/28/2024 3:10 AM
+hello
+are you there?
+CryptoGene — 04/28/2024 3:30 AM
+already,I avoid Bot protecting system.
+The video showed part of the process.
+Bonsai — 04/28/2024 4:01 AM
+Do u have excel spreadsheet you can share ? How far along are you in scraping the site ?
+Let’s meet tomorrow 10am est
+Data scraping
+Sunday, Apr 28 · 10–11 AM
+Google Meet joining info
+Video call link: https://meet.google.com/jdk-cewv-qxc
+Or dial: +1 478-239-2133 PIN: 695732784
+More phone numbers: https://tel.meet/jdk-cewv-qxc?pin=6110714016461
+Join this video meeting
+Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.
+Image
+CryptoGene — 04/28/2024 4:03 AM
+okay.
+Bonsai — 04/28/2024 4:04 AM
+If you want to meet right now we can do that too (if it’s not too late for you )
+CryptoGene — 04/28/2024 4:04 AM
+i am sorry .I can't now
+Bonsai — 04/28/2024 4:04 AM
+Ok
+CryptoGene — 04/28/2024 4:04 AM
+I will join the meeting at 10 am
+Bonsai — 04/28/2024 4:04 AM
+Talk to you tomorrow
+CryptoGene — 04/28/2024 4:04 AM
+thank.
+good bye!
+Bonsai — 04/28/2024 11:00 PM
+Hi .. I’m on the call .. let’s meet
+Bonsai — 04/28/2024 11:08 PM
+R u joining ?
+CryptoGene — Yesterday at 7:51 AM
+hey
+CryptoGene — Yesterday at 12:43 PM
+I am sorry for missing your  call  😢 
+I thought tomorrow means today that you said.
+CryptoGene — Yesterday at 1:55 PM
+Now, I have scraped 70,000 web sites info from table.
+and saved data to Mongodb database.
+CryptoGene — Yesterday at 3:22 PM
+of course already saved as Excel file.
+currently,I have built Server to save site data that sent from Scrapping Bot.
+Bonsai — Yesterday at 9:23 PM
+HI
+Bonsai — Yesterday at 10:59 PM
+are you availble for qyick call?
+CryptoGene — Yesterday at 11:03 PM
+hello
+I am available in now
+are you there?
+Bonsai — Yesterday at 11:05 PM
+yes
+data scrapping
+Monday, April 15 · 10:30 – 11:30am
+Time zone: America/Detroit
+Google Meet joining info
+Video call link: https://meet.google.com/qwt-svde-voq
+Or dial: ‪(US) +1 470-485-9427‬ PIN: ‪231 812 323‬#
+More phone numbers: https://tel.meet/qwt-svde-voq?pin=3936269724432
+Join this video meeting
+Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.
+Image
+i have a meeting at 10:30.. so we have 20 mins
+CryptoGene — Yesterday at 11:05 PM
+okay
+I will join in now
+okay?
+Bonsai — Yesterday at 11:06 PM
+yes.. lets do it
+are you joining? i am on the call.
+CryptoGene — Yesterday at 11:09 PM
+wait
+Attachment file type: spreadsheet
+sitedat.xlsx
+3.23 MB
+CryptoGene — Yesterday at 11:44 PM
+Hi.
+thank you for taking time for the call, and your cool reply !
+tbh, it is kind of really tough project.
+i don't like liars but i honestly understand why the others couldn't complete the project.
+If you judge my hard work fairly, and could pay some more now, i would appreciate it and do my best for the project.
+https://github.com/kaitoito200198/Scraping_Service
+i have pushed backend code for processing the data scrapped into the github.
+this is the link.
+scrapping code is not completed.
+we still have to get the links and other things.
+i will push the scrapping code into github after it is done. 
+GitHub
+GitHub - kaitoito200198/Scraping_Service
+Contribute to kaitoito200198/Scraping_Service development by creating an account on GitHub.
+GitHub - kaitoito200198/Scraping_Service
+Bonsai — Today at 12:28 AM
+Hi.. Thank you for the work. My initial budget was $500 but i took a risk and try to pay you $2000 which is very high end of my initial budget. I wont be able to pay you more. I made it clear on obstacles and cost before the project started.
+CryptoGene — Today at 12:28 AM
+of course i know that
+i didn't ask you to pay more than total $2000
+just for this time, more than 200
+if you can
+Bonsai — Today at 12:29 AM
+Ok. i can do that.
+CryptoGene — Today at 12:29 AM
+really cool !
+Bonsai — Today at 12:29 AM
+i will send you $300 .. send me the QR code for your ETH wallet
+CryptoGene — Today at 12:31 AM
+ok
+but please wait for a while
+i just forgot my wallet password
+Image
+this is my QR code
+Bonsai — Today at 12:40 AM
+$300 sent..
+Bonsai — Today at 12:50 AM
+its shows me transaction is completed.. so you should have received the money.. please confirm.
+CryptoGene — Today at 12:50 AM
+one moment please
+yes
+i have checked
+thank you
+Bonsai — Today at 12:50 AM
+great.. next payment will be when you deliver the full set of data... i will pay in full.
+rest of $1700
+CryptoGene — Today at 12:59 AM
+i think it is too risky for me
+i mean, to get the rest 1700 after all is done
+here's my suggestion
+i will get all the 700000 site links and all the social links for that and send you the data and source code.
+and then you give me 700.
+and after that, i will complete the task and and you pay the rest 1000
+i think this is good for both of us.
+what do you think ? 
+Bonsai — Today at 1:00 AM
+ok
+will do that way
+CryptoGene — Today at 1:01 AM
+cool
+have the nice rest of the day
