@@ -1,0 +1,138 @@
+import zipfile
+import os
+
+# File contents for project
+project_name = "AGU_Memecoin_With_PrivateKey"
+base_path = f"/mnt/data/{project_name}"
+
+# Files to be included in the zip
+files = {
+    "contracts/Memecoin.sol": """
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
+
+contract Memecoin is ERC20, Ownable {
+    constructor() ERC20("AGU Memecoin", "AGU") {
+        _mint(msg.sender, 1000000 * 10 ** decimals());
+    }
+
+    function mint(address to, uint256 amount) public onlyOwner {
+        _mint(to, amount);
+    }
+
+    function burn(uint256 amount) public {
+        _burn(msg.sender, amount);
+    }
+}
+""",
+    "contracts/Proxy.sol": """
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract Proxy {
+    address public implementation;
+
+    constructor(address _implementation) {
+        implementation = _implementation;
+    }
+
+    fallback() external payable {
+        address impl = implementation;
+        assembly {
+            calldatacopy(0, 0, calldatasize())
+            let result := delegatecall(gas(), impl, 0, calldatasize(), 0, 0)
+            returndatacopy(0, 0, returndatasize())
+            switch result
+            case 0 { revert(0, returndatasize()) }
+            default { return(0, returndatasize()) }
+        }
+    }
+}
+""",
+    "scripts/deploy.js": """
+// scripts/deploy.js
+const { ethers } = require("hardhat");
+
+async function main() {
+    const implementationAddress = "0x97293ceab815896883e8200aef5a4581a70504b2";
+    console.log("Using implementation address:", implementationAddress);
+
+    const Proxy = await ethers.getContractFactory("Proxy");
+    const proxy = await Proxy.deploy(implementationAddress);
+    await proxy.deployed();
+
+    console.log("Proxy deployed to:", proxy.address);
+}
+
+main().catch((error) => {
+    console.error(error);
+    process.exitCode = 1;
+});
+""",
+    "hardhat.config.js": """
+require("dotenv").config();
+
+module.exports = {
+    solidity: "0.8.20",
+    networks: {
+        goerli: {
+            url: process.env.GOERLI_RPC_URL,
+            accounts: [process.env.PRIVATE_KEY]
+        },
+    },
+};
+""",
+    ".env": """
+PRIVATE_KEY=your_private_key_here
+GOERLI_RPC_URL=https://goerli.infura.io/v3/your_infura_project_id
+ETHERSCAN_API_KEY=your_etherscan_api_key_here
+""",
+    "README.md": """
+# AGU Memecoin Project
+
+This repository contains the implementation of AGU Memecoin and its Proxy contract.
+
+## Features
+- ERC-20 token with mint and burn functionality.
+- Proxy contract to point to the implementation.
+
+## Setup
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/agu-memcoin.git
+    ```
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Configure environment variables in `.env` file.
+
+## Deployment
+Deploy the Proxy contract pointing to your implementation:
+```bash
+npx hardhat run scripts/deploy.js --network goerli
+```
+""",
+}
+
+# Create directories and write files
+os.makedirs(base_path, exist_ok=True)
+for file_path, content in files.items():
+    full_path = os.path.join(base_path, file_path)
+    os.makedirs(os.path.dirname(full_path), exist_ok=True)
+    with open(full_path, "w") as f:
+        f.write(content)
+
+# Create ZIP file
+zip_path = f"/mnt/data/{project_name}.zip"
+with zipfile.ZipFile(zip_path, "w") as zipf:
+    for root, _, files in os.walk(base_path):
+        for file in files:
+            file_path = os.path.join(root, file)
+            zipf.write(file_path, os.path.relpath(file_path, base_path))
+
+zip_path
